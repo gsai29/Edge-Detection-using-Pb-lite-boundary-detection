@@ -1,5 +1,3 @@
-The assignment has been done entirely in HW0Phase1AndPhase2Notebook.ipyng .
-
 Phase 1:
 1. Individual Function calls have been just after every function definition. For ex. the function call for gabor() function is just the next block to it. 
 2. To directly get the Pb-lite output, directly run the pb_lite() function call, after running the previous function cells. 
