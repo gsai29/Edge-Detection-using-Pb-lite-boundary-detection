@@ -1,11 +1,11 @@
-Phase 1: Pb-lite edge detection
+**Phase 1: Pb-lite edge detection**
 1. Individual Function calls have been just after every function definition. For ex. the function call for gabor() function is just the next block to it. 
 2. To directly get the Pb-lite output, directly run the pb_lite() function call, after running the previous function cells. 
 3. To get results for different images, just add your own image address in get_image(), get_sobel(),get_canny() functions.
 
 
 
-Phase 2: Deep learning implemetations
+**Phase 2: Deep learning implemetations**
 1. Training- Add your own path for the train set and train labels.
    BaseClass-uncomment line 229 in Train block,comment other models. 
 
