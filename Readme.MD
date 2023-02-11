@@ -5,7 +5,7 @@
 
 
 
-**Phase 2: Deep learning implemetations**
+**Phase 2: Deep learning implementations**
 1. Training- Add your own path for the train set and train labels.
    BaseClass-uncomment line 229 in Train block,comment other models. 
 
